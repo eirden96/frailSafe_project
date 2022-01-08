@@ -16,14 +16,17 @@ More about the FrailSafe project can be found [here](https://frailsafe-project.e
 The prerequisites can be found in the [requierments.txt](test.com)
 
 ### Description 
-Our project consists of three parts: 
-    1. preprocessing of the Aggregated Virtual Patient Model Dataset, which can be found [here](https://zenodo.org/record/2670048#.YdmxrdBBxaS) and classification based on "Fried" Parameter.
-    2. preprocessing of the Indoor Localization Dataset, which can be found [here](https://zenodo.org/record/2671590#.YdmxpdBBxaT), merging with the preprocessed dataset above and clustering.
+Our project consists of three parts: <br />
+
+    1. preprocessing of the Aggregated Virtual Patient Model Dataset, which can be found [here](https://zenodo.org/record/2670048#.YdmxrdBBxaS) and classification based on "Fried" Parameter.<br />
+
+    2. preprocessing of the Indoor Localization Dataset, which can be found [here](https://zenodo.org/record/2671590#.YdmxpdBBxaT), merging with the preprocessed dataset above and clustering.<br />
+
     3. Exploratory Data Analysis (EDA).
 
 ### Contact
-Please feel free to contact us 
-Andronikidis George: giorgosandronikidis@gmail.com 
+Please feel free to contact us <br />
+Andronikidis George: giorgosandronikidis@gmail.com <br />
 Denazi Eirini: irenedenazi@gmail.com 
 
 
